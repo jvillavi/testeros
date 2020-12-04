@@ -1,5 +1,8 @@
 package com.jvillavi.tester;
 
+/**
+ * Respuesta Generica
+ */
 public class Respuesta {
     private String mensaje;
 
